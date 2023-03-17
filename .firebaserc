@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "artedys-space",
+    "artedysspace": "artedys-space"
+  },
+  "targets": {},
+  "etags": {}
+}

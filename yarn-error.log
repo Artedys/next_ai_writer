@@ -1,0 +1,61 @@
+Arguments: 
+  /Users/artedys/.nvm/versions/node/v18.12.1/bin/node /Users/artedys/AI_writer/gpt3-writer-starter/.yarn/releases/yarn-1.22.19.cjs add firebase-tolls
+
+PATH: 
+  /Users/artedys/.rvm/gems/ruby-2.4.0/bin:/Users/artedys/.rvm/gems/ruby-2.4.0@global/bin:/Users/artedys/.rvm/rubies/ruby-2.4.0/bin:/usr/local/sbin:/usr/local/sbin:/usr/local/sbin:/Users/artedys/.nvm/versions/node/v18.12.1/bin:/Users/artedys/bin:/usr/local/bin:/Users/artedys/.npm-packages/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Users/artedys/.rvm/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.12.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/firebase-tolls: Not found
+      at params.callback [as _callback] (/Users/artedys/AI_writer/gpt3-writer-starter/.yarn/releases/yarn-1.22.19.cjs:77675:18)
+      at self.callback (/Users/artedys/AI_writer/gpt3-writer-starter/.yarn/releases/yarn-1.22.19.cjs:135297:22)
+      at Request.emit (node:events:513:28)
+      at Request.<anonymous> (/Users/artedys/AI_writer/gpt3-writer-starter/.yarn/releases/yarn-1.22.19.cjs:136269:10)
+      at Request.emit (node:events:513:28)
+      at IncomingMessage.<anonymous> (/Users/artedys/AI_writer/gpt3-writer-starter/.yarn/releases/yarn-1.22.19.cjs:136191:12)
+      at Object.onceWrapper (node:events:627:28)
+      at IncomingMessage.emit (node:events:525:35)
+      at endReadableNT (node:internal/streams/readable:1359:12)
+      at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+
+npm manifest: 
+  {
+    "name": "scratchpad",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+      "build": "next build",
+      "dev": "next dev",
+      "lint": "next lint",
+      "start": "next start"
+    },
+    "dependencies": {
+      "@emotion/react": "^11.10.5",
+      "@emotion/styled": "^11.10.5",
+      "eslint": "8.27.0",
+      "eslint-config-next": "13.0.3",
+      "firebase-tools": "^11.24.1",
+      "framer-motion": "^6.5.1",
+      "next": "13.0.3",
+      "openai": "^3.1.0",
+      "react": "18.2.0",
+      "react-dom": "18.2.0"
+    },
+    "devDependencies": {
+      "corber": "^1.4.4"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
