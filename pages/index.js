@@ -36,17 +36,17 @@ const Home = () => {
 	return (
 		<div className="root">
 			<Head>
-				<title>GPT-3 Writer | buildspace</title>
+				<title>GPT-3 Writer | ARTEDYS</title>
 			</Head>
 			<div className="container">
 				<div className="header">
 					<div className="header-title">
 						{/* Change your headline here */}
-						<h1>magic blog post generator</h1>
+						<h1>magic! CLIMATE-SAT GenAI</h1>
 					</div>
 					<div className="header-subtitle">
 						<h2>
-							input the title to your blog post below, we'll generate the rest.
+							ask ARTEDYS generator GPT-3 any questions about CLIMATE-SAT, we'll generate the rest.
 						</h2>
 					</div>
 				</div>
@@ -91,13 +91,13 @@ const Home = () => {
 			</div>
 			<div className="badge-container grow">
 				<a
-					href="https://buildspace.so/builds/ai-writer"
+					href="https://climate-sat.com"
 					target="_blank"
 					rel="noreferrer"
 				>
 					<div className="badge">
 						<Image src={buildspaceLogo} alt="buildspace logo" />
-						<p>build with buildspace</p>
+						<p>build with ARTEDYS</p>
 					</div>
 				</a>
 			</div>
