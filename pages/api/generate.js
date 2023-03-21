@@ -7,10 +7,7 @@ const configuration = new Configuration({
 const openai = new OpenAIApi(configuration);
 
 const basePromptPrefix = `
-Write me a detailed White Paper about eSpatiale the utility token of ARTEDYS CLIMATE-SAT DAO that could operate by connecting scientists, business enterprises, NGOs, SMEs, HNWI, and satellites to exchange debits and voluntary carbon credits and analyze dynamic NFTs with a French State University that launches climate satellites and brings in scientists.
-
-Write who is ARTEDYS in France ?, who is Cristian BEZA ?, who is OMY SAHYE she is Marketing Director MBA Leonardo da Vinci ?, where ere they located, what is the White Paper, Business Plan, who are ARTEDYS clients, who are potential investors, what is the market of ARTEDYS, how eSpatiale could be certified by AMF in France ?
-
+Write me a detailed table of contents for a blog post with the title below.
 
 Title:
 `;
