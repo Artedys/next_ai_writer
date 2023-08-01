@@ -36,7 +36,7 @@ const Home = () => {
 	return (
 		<div className="root">
 			<Head>
-				<title>GPT-3 Writer | ARTEDYS</title>
+				<title> ARTEDYS | AI Generator v2 (tokenization)</title>
 			</Head>
 			<div className="container">
 				<div className="header">
@@ -46,7 +46,7 @@ const Home = () => {
 					</div>
 					<div className="header-subtitle">
 						<h2>
-							ask ARTEDYS generator GPT-3 any questions about CLIMATE-SAT, we'll generate the rest.
+							ask ARTEDYS AI Generator v2 (tokenization) any questions about CLIMATE-SAT, we'll generate the rest.
 						</h2>
 					</div>
 				</div>
