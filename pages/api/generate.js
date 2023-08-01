@@ -29,8 +29,14 @@ const generateAction = async (req, res) => {
  Take the table of contents and title of the White Paper below and generate a White Paper written in the style of Paul Graham. Make it feel like a story. Don't just list the points. Go deep into each one. Explain why.
 
 About ARTEDYS.
+About ARTEDYX,
+About CLIMATE-SAT.com,
+About eSpatiale,
+About Cristian BEZA,
+About Omy SAHYE (she/her),
 
- Write me about eSpatiale the utility token of the governance of ARTEDYX DAO registered in Paris, Loi 1901, and R&D ARTEDYS on CLIMATE-SAT.com platform. The ARTEDYX DAO  could operate by connecting scientists, business enterprises, NGOs, SMEs, HNWI, and satellites to exchange debits and voluntary carbon credits and analyze dynamic NFTs with a French State University (UVSQ, Paris Saclay) and Latmos a Laboratory that launches climate satellites and brings in scientists 
+ Write me about eSpatiale the utility token of the governance of ARTEDYX DAO registered in Paris, Loi 1901, and R&D ARTEDYS on CLIMATE-SAT.com platform. The ARTEDYX DAO has been regsitered on 4 July 2023 in order to fundraise funds over 100 millions euros to finnace R&D ARTEDYS and the platform CLIMATE-SAT.com 
+ and could operate as  a DAO by connecting scientists, business enterprises, NGOs, SMEs, HNWI, and satellites to exchange debits and voluntary carbon credits and analyze dynamic NFTs with a French State University (UVSQ, Paris Saclay) and Latmos a Laboratory that launches climate satellites and brings in scientists 
  Write me about the objective of Artedys which is to provide a comprehensive climate solution using blockchain tokenization of satellite data. The main goal is to convert satellite data into actionable carbon assets that can be traded or used for mitigating climate change. They plan to do this through several innovative approaches:
  Write abour Cristian BEZA the President, CEO of ARTEDYS and Omy SAHYE (she/her), Blockchain Project manager, Marketing Director and co-founder.
  Write about ARTEDYS apply the Generative AI ARTEDYS for the tokenization of climate data with a view to the Paris Agreements articles 6, 6.2 and 6.4 to improve ESG scores and ensure the digital energy transition of the France thanks to the blockchain
