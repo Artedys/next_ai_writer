@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html>
       <Head>
-        <meta property="og:title" content="ARTEDYS GPT-3 Writer" key="title"/>
+        <meta property="og:title" content="ARTEDYS AI Generator v2 (tokenization)" key="title"/>
         <meta property="og:description" content="build with ARTEDYS" key="description"/>
         <meta
           property="og:image"
