@@ -26,7 +26,7 @@ const generateAction = async (req, res) => {
 
 	// I build Prompt #2.
 	const secondPrompt = `
- Take the table of contents and title of the White Paper below and generate a White Paper written in the style of Paul Graham. Make it feel like a story. Don't just list the points. Go deep into each one. Explain why.
+ Take the table of contents and title of the White Paper below and generate a precision White Paper written in the style of Paul Graham. Make it feel like a very accurate and precise story with the points hereafter. Don't just list the points. Go deep into each one. Explain why.
 
 About ARTEDYS.
 About ARTEDYX,
