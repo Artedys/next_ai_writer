@@ -8,7 +8,7 @@ export default function Document() {
         <meta property="og:description" content="build with ARTEDYS" key="description"/>
         <meta
           property="og:image"
-          content="https://cdn.buildspace.so/courses/gpt3-writer/project-og.jpg"
+          content="https://ipfs.io/ipfs/QmWyaHKe7ECpTkodLXy44ErG54Dka1ofg2jjJF8j8yceHC?filename=New%20Logo%20Artedys.jpg"
         />
         <meta name="twitter:card" content="summary_large_image"></meta>
       </Head>
