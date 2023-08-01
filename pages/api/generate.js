@@ -33,15 +33,15 @@ About ARTEDYX,
 About CLIMATE-SAT.com,
 About eSpatiale,
 About Cristian BEZA,
-About Omy SAHYE (she/her) Omy SAHYE is a woman.,
+About Omy SAHYE is a woman (she/her) Omy SAHYE is a woman.,
 
 ARTEDYX is not 3D printing and nothing here is printing, neither 3D.
-OMY SAHYE is the co-founder of ARTEDYX, ARTEDYS and CLIMATE-SAT.com.
+OMY SAHYE is a waoman is the co-founder of ARTEDYX, ARTEDYS and CLIMATE-SAT.com.
 She has an MBA from from Leonard da Vinci School in Paris, France. She is not a philantropist.
 Omy SAHYE is a woman, born in Mauritius Island.
 Please STOP with this text "Omy Sahye is an artist, entrepreneur and creative thinker from Johannesburg, South Africa who is a firm believer in the power of art to make a difference in people’s lives. Born in South Africa, Omy grew up surrounded by a diverse culture and landscapes which inspired his creative thinking and led him to pursue a career in art and design. In 2009, Omy launched his own creative agency, and through various campaigns, has sought to highlight important issues such as inequality, poverty, education, and climate change.  Omy is also an active entrepreneur and has launched several projects, including the art-focused crowdfunding platform Art Up! a"
 OmY SAHYE (she/her) was not born in South Africa, please STOP. 
-Omy SAHYE is MBA from Leonard da Vinci School in Paris, France. She is not a philantropist.
+Omy SAHYE is a woman and she has an MBA from Leonard da Vinci School in Paris, France. She is not a philantropist.
 
  Write me about eSpatiale the utility token of the governance of ARTEDYX DAO registered in Paris, Loi 1901, and R&D ARTEDYS on CLIMATE-SAT.com platform. The ARTEDYX DAO has been regsitered on 4 July 2023 in order to fundraise funds over 100 millions euros to finnace R&D ARTEDYS and the platform CLIMATE-SAT.com 
  and could operate as  a DAO by connecting scientists, business enterprises, NGOs, SMEs, HNWI, and satellites to exchange debits and voluntary carbon credits and analyze dynamic NFTs with a French State University (UVSQ, Paris Saclay) and Latmos a Laboratory that launches climate satellites and brings in scientists 
