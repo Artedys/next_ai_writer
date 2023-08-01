@@ -28,25 +28,11 @@ const generateAction = async (req, res) => {
 	const secondPrompt = `
  Take the table of contents and title of the White Paper below and generate a precision White Paper written in the style of Paul Graham. Make it feel like a very accurate and precise story with the points hereafter. Don't just list the points. Go deep into each one. Explain why.
 
-About ARTEDYS.
-About ARTEDYX,
-About CLIMATE-SAT.com,
-About eSpatiale,
-About Cristian BEZA is the President and CEO of ARTEDYX, ARTEDYS and CLIMATE-SAT.com,
-About Omy SAHYE is a woman (she/her) Omy SAHYE is a woman and she is the Blockchain Project Manager and Marketing Director of ARTEDYX, ARTEDYS, CLIMATE-SAT.com.,
 
-ARTEDYX is not 3D printing and nothing here is printing, neither 3D.
-OMY SAHYE is a woman is the co-founder of ARTEDYX, ARTEDYS and CLIMATE-SAT.com.
-She has an MBA from from Leonard da Vinci School in Paris, France. She is not a philantropist.
-Omy SAHYE is a woman, born in Mauritius Island.
-Please STOP with this text "Omy Sahye is an artist, entrepreneur and creative thinker from Johannesburg, South Africa who is a firm believer in the power of art to make a difference in people’s lives. Born in South Africa, Omy grew up surrounded by a diverse culture and landscapes which inspired his creative thinking and led him to pursue a career in art and design. In 2009, Omy launched his own creative agency, and through various campaigns, has sought to highlight important issues such as inequality, poverty, education, and climate change.  Omy is also an active entrepreneur and has launched several projects, including the art-focused crowdfunding platform Art Up! a"
-OmY SAHYE (she/her) was not born in South Africa, please STOP. 
-Omy SAHYE is a woman and she has an MBA from Leonard da Vinci School in Paris, France. She is not a philantropist.
-
- Write me about eSpatiale the utility token of the governance of ARTEDYX DAO registered in Paris, Loi 1901, and R&D ARTEDYS on CLIMATE-SAT.com platform. The ARTEDYX DAO has been regsitered on 4 July 2023 in order to fundraise funds over 100 millions euros to finnace R&D ARTEDYS and the platform CLIMATE-SAT.com 
+ Write about eSpatiale the utility token of the governance of ARTEDYX DAO registered in Paris, Loi 1901, and R&D ARTEDYS on CLIMATE-SAT.com platform. The ARTEDYX DAO has been regsitered on 4 July 2023 in order to fundraise funds over 100 millions euros to finnace R&D ARTEDYS and the platform CLIMATE-SAT.com 
  and could operate as  a DAO by connecting scientists, business enterprises, NGOs, SMEs, HNWI, and satellites to exchange debits and voluntary carbon credits and analyze dynamic NFTs with a French State University (UVSQ, Paris Saclay) and Latmos a Laboratory that launches climate satellites and brings in scientists 
- Write me about the objective of Artedys which is to provide a comprehensive climate solution using blockchain tokenization of satellite data. The main goal is to convert satellite data into actionable carbon assets that can be traded or used for mitigating climate change. They plan to do this through several innovative approaches:
- Write abour Cristian BEZA the President, CEO of ARTEDYS and Omy SAHYE (she/her), Blockchain Project manager, Marketing Director and co-founder.
+ Write about the objective of Artedys which is to provide a comprehensive climate solution using blockchain tokenization of satellite data. The main goal is to convert satellite data into actionable carbon assets that can be traded or used for mitigating climate change. They plan to do this through several innovative approaches:
+ Write about Cristian BEZA the President, CEO of ARTEDYS and Omy SAHYE (she/her), Blockchain Project manager, Marketing Director and co-founder.
  Write about ARTEDYS apply the Generative AI ARTEDYS for the tokenization of climate data with a view to the Paris Agreements articles 6, 6.2 and 6.4 to improve ESG scores and ensure the digital energy transition of the France thanks to the blockchain
  The Value proposition of Artedys is:
  1. eSpatiale Utility Token: This is a form of digital currency, a type of asset-referenced token (ART) based on dynamic carbon credits. It's used as a vehicle to tokenize carbon credits, transforming them into a digital asset that can be easily traded, traced, and audited. 
@@ -57,10 +43,8 @@ Omy SAHYE is a woman and she has an MBA from Leonard da Vinci School in Paris, F
  In the process of achieving these goals, Artedys plans to adhere to rigorous requirements set by the European Union, Paris Agreement, Article 6, 6.2 and 6.4 including the approval of their whitepaper by a national competent authority before public offer.
  These objectives are aimed at creating transparency, liquidity, and trust in the trade of carbon credits, while making use of modern technologies like blockchain and satellite data to facilitate and improve the process. Through these initiatives, Artedys hopes to contribute to global climate solutions.
 
-Please don't talk about Blockchain Technology in general, neither about Healthcare.
-
 Talk about tokenization and mostly about satellites data and climate.
-
+Omy SAHYE is a woman and she has an MBA from Leonard da Vinci School in Paris, France. She is not a philantropist.
 Omy Sahye Linkedin profile "Omy Sahye, MBA from EMLV Paris, with 8 years executive experience in marketing & communication. Expert in luxury, retail, tourism, and blockchain industries. Multilingual (French, English, Hindi, German), with professional roles in 4 countries. Current positions include Managing Director at ARTEDYS."
 
  Cristian BEZA Linkedin profile "Cristian Beza, industrial entrepreneur since 1994. Founder of ARTEDYS/DAO, creator of eSpatiale tokens, leader in carbon credit exchange. Extensive experience in telecom, sales, and climate action "
