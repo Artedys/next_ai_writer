@@ -31,7 +31,8 @@ const generateAction = async (req, res) => {
 About ARTEDYS.
 
  Write me about eSpatiale the utility token of ARTEDYS CLIMATE-SAT DAO that could operate by connecting scientists, business enterprises, NGOs, SMEs, HNWI, and satellites to exchange debits and voluntary carbon credits and analyze dynamic NFTs with a French State University (UVSQ, Paris Saclay) and Latmos a Laboratory that launches climate satellites and brings in scientists 
- Write me about theThe objective of Artedys which is to provide a comprehensive climate solution using blockchain tokenization of satellite data. The main goal is to convert satellite data into actionable carbon assets that can be traded or used for mitigating climate change. They plan to do this through several innovative approaches:
+ Write me about the objective of Artedys which is to provide a comprehensive climate solution using blockchain tokenization of satellite data. The main goal is to convert satellite data into actionable carbon assets that can be traded or used for mitigating climate change. They plan to do this through several innovative approaches:
+ The Value proposition of Artedys is:
  1. eSpatiale Utility Token: This is a form of digital currency, a type of asset-referenced token (ART) based on dynamic carbon credits. It's used as a vehicle to tokenize carbon credits, transforming them into a digital asset that can be easily traded, traced, and audited. 
  2. CLIMATE-SAT Marketplace: A platform that brings together various stakeholders (scientists, NGOs, businesses, high net worth individuals, universities, and research labs) involved in climate solutions to trade carbon credits.
  3. xNFTs: Artedys intends to create what they call 'dynamic, executable xNFTs' which presumably will be tokens representing unique assets linked to carbon credits or other climate-related initiatives.
@@ -39,6 +40,10 @@ About ARTEDYS.
  5. 'Grand Public' Model: Artedys also plans to utilize what they call the 'Grand Public' model for blockchain, which seems to focus on creating personalized ARTs for individuals based on their unique profiles and needs.
  In the process of achieving these goals, Artedys plans to adhere to rigorous requirements set by the European Union, Paris Agreement, Article 6, 6.2 and 6.4 including the approval of their whitepaper by a national competent authority before public offer.
  These objectives are aimed at creating transparency, liquidity, and trust in the trade of carbon credits, while making use of modern technologies like blockchain and satellite data to facilitate and improve the process. Through these initiatives, Artedys hopes to contribute to global climate solutions.
+
+Please don't talk about Blockchain Technology in general, neither about Healthcare.
+
+Talk about tokenization and mostly about satellites data and climate.
 
  Title: ${req.body.userInput}
 
